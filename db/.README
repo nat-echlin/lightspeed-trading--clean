@@ -1,0 +1,5 @@
+# Guide to the settings.env file
+
+ADMIN_API_KEY is for incoming requests, that we will add to the request to show
+that it's an admin sending it. EG, for creating a new plan, adding a trader,
+etc.

@@ -1,0 +1,25 @@
+{
+    "code":"000000",
+    "message":null,
+    "messageDetail":null,
+    "data":{
+        "otherPositionRetList":[
+            {
+                "symbol":"DOGEUSDT",
+                "entryPrice":0.0857324381448,
+                "markPrice":0.07350223,
+                "pnl":-223444.80004440,
+                "roe":-0.83196115,
+                "updateTime":[2023,5,8,8,13,42,649000000],
+                "amount":18269922,
+                "updateTimeStamp":1683533622649,
+                "yellow":false,
+                "tradeBefore":true,
+                "leverage":5
+            }
+        ],
+        "updateTime":[2023,5,8,8,13,42,649000000],
+        "updateTimeStamp":1683533622649
+    },
+    "success":true
+}
